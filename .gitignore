@@ -22,3 +22,6 @@ fp-info-cache
 
 # Exports
 *.step
+
+# production files
+/production/
