@@ -1,1 +1,3 @@
-# PowerDistributorV2
+# PowerDistributor -mini-
+by scottec
+
