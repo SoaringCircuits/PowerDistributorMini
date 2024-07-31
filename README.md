@@ -1,3 +1,6 @@
 # PowerDistributor -mini-
-by scottec
 
+Instructions for installation coming soon.
+
+----------
+by scottec
